@@ -9,6 +9,7 @@ using static OpenIddict.Abstractions.OpenIddictExceptions;
 
 namespace Sorgan.Wpf.Client;
 
+//test
 public partial class MainWindow : Window, IWpfShell
 {
     private readonly OpenIddictClientService _service;
